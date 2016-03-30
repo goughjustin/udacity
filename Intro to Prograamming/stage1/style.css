@@ -22,19 +22,13 @@ h1 {
   text-align: center;
 }
 
-.top {
-  display: -webkit-flex;
-  display: flex;
-}
-
 .title {
+    color: #000;
 }
 
-.image {
-}
 
 .lesson {
-  background-color: #3B5998;
+  background-color: #3b5998;
   border-radius: 20px;
   color: white;
   padding: 10px;
@@ -46,14 +40,14 @@ h1 {
   padding: 4px;
   margin: 10px;
   border-radius: 4px;
-  color: #000000;
+  color: #000;
 }
 
 .concept-title {
   font-size: 28px;
   margin: 8px;
   text-align: center;
-  color: #000000;
+  color: #000;
 }
 
 .concept-description {
